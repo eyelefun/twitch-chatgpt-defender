@@ -101,9 +101,9 @@ Chatter "fluffans" is a female.
 Chatter "fluffans" is not a femboy.
 Chatter "VampiressVinki" is a female.
 Chatter "VampiressVinki" is not a femboy.
-Chatter "lncubus" is a female.
-Chatter "lncubus" loves femboys.
-Chatter "lncubus" is not a femboy.
+Chatter "lnkubus" is a female.
+Chatter "lnkubus" loves femboys.
+Chatter "lnkubus" is not a femboy.
 Chatter "JustWob" is a male.
 Chatter "JustWob" loves femboys.
 Chatter "JustWob" is not a femboy.
